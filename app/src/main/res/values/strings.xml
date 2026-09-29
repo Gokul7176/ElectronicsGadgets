@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Electronics Gadgets</string>
+    <string name="tagline">Your Ultimate Tech Store</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="search_hint">Search electronics &amp; gadgets...</string>
+    <string name="categories">Categories</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="popular_products">Popular Products</string>
+    <string name="see_all">See All</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="place_order">Place Order</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_profile">My Profile</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="logout">Logout</string>
+    <string name="free_delivery">Free Delivery</string>
+</resources>

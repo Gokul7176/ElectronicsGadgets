@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193092280447",
+    "project_id": "electronics-gadgets-cef2d",
+    "storage_bucket": "electronics-gadgets-cef2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193092280447:android:957098f02bd178028a5f4a",
+        "android_client_info": {
+          "package_name": "com.example.electronicsgadgets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxE34nTCQy9gOOVua1TZuG-0rje47hj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
